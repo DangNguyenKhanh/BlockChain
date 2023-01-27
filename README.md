@@ -7,6 +7,15 @@
 - Giá trị băm trước đó (Prev Hash)
 - Giá trị băm hiện tại (Hash)
 > Genesis block ?
-- Data:       'Genesis'
+- Data:       ...
 - Prev Hash:  000 000 000
 - Hash:       1B3 9AB F34
+> Second block ?
+- Data:       ...
+- Prev Hash:  1B3 9AB F34
+- Hash:       2B3 9AB F34
+> Third block ?
+- Data:       ...
+- Prev Hash:  2B3 9AB F34
+- Hash:       3B3 9AB F34
+
