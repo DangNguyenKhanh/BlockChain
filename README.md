@@ -19,4 +19,4 @@
 - Prev Hash:  2B3 9AB F34
 - Hash:       3B3 9AB F34
 > Reference ?
-https://tek4.vn/khoa-hoc/khoa-hoc-blockchain-co-ban/khai-niem-ve-so-cai-bat-bien-trong-blockchain
+- https://tek4.vn/khoa-hoc/khoa-hoc-blockchain-co-ban/khai-niem-ve-so-cai-bat-bien-trong-blockchain
