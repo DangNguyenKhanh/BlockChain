@@ -22,3 +22,13 @@
 
 > Độ khó
 - Độ khó = Giá trị mục tiêu hiện tại / Giá trị mục tiêu lớn nhất
+
+> Nhóm khai thác - Mining pool
+- Tìm giá trị nonce bằng kỹ thuật Brute force tức chia ra máy tính thứ nhất 1 tìm giá trị Nonce từ 1-1000, máy thứ 2 tìm giá trị Nonce từ 1000 đến 2000
+- Chia phần thưởng theo % sức mạnh băm 
+
+> Phạm vi giá trị nonce
+- chiếm 32 bit trong bộ nhớ 
+- Có 2^32 giá trị nonce = 4 x 10^9 xấp xỉ 4 tỷ
+- Một mã băm hợp lệ khi 
+- Xác suát để một mã băm hợp lệ trong 4 tỷ mã băm = 
