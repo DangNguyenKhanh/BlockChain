@@ -7,3 +7,5 @@
 - Proof of Stake (PoS): Bằng chứng cổ phần
 - Others protocol
 
+> Chuỗi duy nhất được chấp nhận
+- Trong Blockchain, chuỗi dài nhất là thắng
