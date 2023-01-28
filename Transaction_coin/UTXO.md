@@ -5,6 +5,7 @@
 
 > Phí giao dịch 
 - Nếu ta muốn giao dịch được chấp nhận sớm, ta phải ra một khoản phí không bắt buộc = số tiền vào - số tiền ra
+- Phí giao dịch là sự chênh lệch giữa các đầu vào giao dịch và đầu ra. Bất cứ đầu ra nào chưa được sử dụng sẽ được gửi đến máy đào khai thác và đó là cách mà bạn có thể chọn phí giao dịch mà bạn muốn trả.
 
 > Ví
 - ví có nhiệm vụ chính là tính tổng UTXO
