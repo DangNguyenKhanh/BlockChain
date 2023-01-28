@@ -34,3 +34,12 @@
 - Nonce
 - Prev Hash
 - Hash
+
+> Timestamp - Mốc thời gian
+- định dạng theo thời gian Unix, là số giây đã trôi qua kể từ ngày 1 tháng 1 năm 1970
+- Ta chỉ có một giây để thực hiện tính toán 4 tỷ giá trị
+- mỗi giá trị Nonce bây giờ sẽ lại được tính lại từ đầu.
+- FACT: 137 triệu nghìn tỷ giá trị băm cho mỗi giây được tính bởi các nhóm khai thác
+
+
+
