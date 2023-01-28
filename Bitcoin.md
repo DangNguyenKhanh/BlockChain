@@ -19,3 +19,6 @@
 
 > Hợp đồng thông minh
 - Vì Etherium có ứng dụng hợp đồng thông minh nên có token
+
+> Độ khó
+- Độ khó = Giá trị mục tiêu hiện tại / Giá trị mục tiêu lớn nhất
