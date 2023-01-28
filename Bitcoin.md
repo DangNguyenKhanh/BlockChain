@@ -33,4 +33,8 @@
 - Một mã băm hợp lệ khi mã băm nhỏ hơn mã băm hàm mục tiêu
 - Xác suát để một mã băm hợp lệ trong 4 tỷ mã băm = 4 x 10^9 x 2×10^−22 = 8x10^-13 = 0.00000000001%
 
+> Máy đào
+- Chọn các giao dịch có phí cao thực hiện sau đó lưu vào khối 
+
+
 
