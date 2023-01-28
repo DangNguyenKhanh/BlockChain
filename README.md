@@ -42,5 +42,6 @@
 - mỗi giá trị Nonce bây giờ sẽ lại được tính lại từ đầu.
 - FACT: 137 triệu nghìn tỷ giá trị băm cho mỗi giây được tính bởi các nhóm khai thác
 
-
+> Website for BlockChain
+- https://www.blockchain.com/explorer/assets/btc
 
