@@ -36,5 +36,6 @@
 > Máy đào
 - Chọn các giao dịch có phí cao thực hiện sau đó lưu vào khối 
 
-
+> Trong bitcoin 1 khối
+- Có khối lượng 1 Mb
 
