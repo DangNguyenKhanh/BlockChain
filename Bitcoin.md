@@ -30,5 +30,7 @@
 > Phạm vi giá trị nonce
 - chiếm 32 bit trong bộ nhớ 
 - Có 2^32 giá trị nonce = 4 x 10^9 xấp xỉ 4 tỷ
-- Một mã băm hợp lệ khi 
-- Xác suát để một mã băm hợp lệ trong 4 tỷ mã băm = 
+- Một mã băm hợp lệ khi mã băm nhỏ hơn mã băm hàm mục tiêu
+- Xác suát để một mã băm hợp lệ trong 4 tỷ mã băm = 4 x 10^9 x 2×10^−22 = 8x10^-13 = 0.00000000001%
+
+
