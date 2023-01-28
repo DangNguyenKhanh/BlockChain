@@ -31,6 +31,7 @@
 - Block Number
 - Timestamp
 - Data
+- Bits (Giá trị mục tiêu) giá trị mục tiêu được lưu trữ bên trong mỗi khối đơn lẻ, và nó được lưu trữ trong trường bits.
 - Nonce
 - Prev Hash
 - Hash
