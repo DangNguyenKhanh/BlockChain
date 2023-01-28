@@ -48,5 +48,5 @@
 - địa chỉ là nơi chúng ta có thể yêu cầu mọi người gửi tiền cho mình
 - Tuy nhiên, chúng ta có thể cung cấp cho người gửi là địa chỉ hoặc khóa công khai
 - Khóa riêng tư ---hàm Elliptic---> Khóa công khai
-
+- Cả hai gần như giống nhau. Địa chỉ là một dạng mã hóa SHA-256 của khóa công khai. Điều này được thực hiện nhằm đảm bảo an toàn bổ sung trong trường hợp đường cong Elliptic bị tấn công.
 
