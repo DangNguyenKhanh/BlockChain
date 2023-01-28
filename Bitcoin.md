@@ -39,3 +39,14 @@
 > Trong bitcoin 1 khối
 - Có khối lượng 1 Mb
 
+> Segregated witness - Nhân chứng tách biệt
+- Gửi phần script (public key, signature,...) bằng mạng khác giúp có thể chứa nhiều giao dịch hơn 
+- tăng thông lượng mạng và tăng tốc độ.
+
+> khóa công khai và địa chỉ Bitcoin
+- khóa công khai ---Hàm băm SHA-256---> Địa chỉ bitcoin
+- địa chỉ là nơi chúng ta có thể yêu cầu mọi người gửi tiền cho mình
+- Tuy nhiên, chúng ta có thể cung cấp cho người gửi là địa chỉ hoặc khóa công khai
+- Khóa riêng tư ---hàm Elliptic---> Khóa công khai
+
+
