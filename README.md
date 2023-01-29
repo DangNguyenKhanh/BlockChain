@@ -45,3 +45,5 @@
 > Website for BlockChain
 - https://www.blockchain.com/explorer/assets/btc
 
+> Mục đích của Whitepaper trong một dự án Blockchain là gì?
+- Để mô tả tại sao dự án lại cần các token nếu một sự kiện ICO được đề xuất.
