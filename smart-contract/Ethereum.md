@@ -17,4 +17,14 @@
 - Turing-complete: có tất cả các yếu tố cần thiết để có thể cụ thể hóa tính logic đó.
 - Bitcoin Script, có một thành phần bị thiếu, một thành phần rất quan trọng, đó là vòng lặp
 
+> máy ảo Ethereum - EVM
+- là một máy ảo chạy trên máy tính của bạn
+- Virus và vấn đề quyền riêng tư được giải quyết thông qua việc sử dụng máy ảo Ethereum
+
+> Gas
+- Là nhiên liệu thanh toán cho đoạn mã 
+- Tại sao họ không sử dụng Ether để thanh toán cho đoạn mã ? giá của Ether dao động rất mạnh trong mọi lúc
+- dựa trên sự đồng thuận của cộng đồng, điều chỉnh theo tỷ lệ chuyển đổi giữa gas và Ether
+- Nhờ có gas mà ethereum cho phép sử dụng vòng lặp, bắt người lập trình viết đoạn mã tối ưu so với bitcoin cấm dùng vòng lặp
+
 
