@@ -46,4 +46,4 @@
 - https://www.blockchain.com/explorer/assets/btc
 
 > Mục đích của Whitepaper trong một dự án Blockchain là gì?
-- Để mô tả tại sao dự án lại cần các token nếu một sự kiện ICO được đề xuất.
+- Để mô tả về cách hoạt động của dự án, sự khác biệt của nó so với những dự án khác và cách mà nó đóng góp cho thế giới.
